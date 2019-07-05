@@ -1,0 +1,118 @@
+body {
+    font-family: 'Share Tech Mono', monospace;
+    background-color: rgb(255, 208, 0);
+    color: rgb(235, 235, 235);
+}
+
+#header {
+    background-color: rgb(36, 36, 36);
+    color: rgb(255, 208, 0);
+    
+}
+
+.logo {
+    font-family: 'Audiowide', cursive;
+    font-size: 70px;
+    padding-left: 10px;
+    color: rgb(255, 208, 0);
+}
+
+#signIn {
+    padding-top: 25px;
+    font-family: 'Audiowide', cursive;
+}
+
+h3 {
+    color: rgb(228, 228, 228);
+    font-size: 31px;
+    font-family: 'Share Tech Mono', monospace;
+    
+}
+
+#inputGroup {
+    background-image: url("https://images.unsplash.com/photo-1485211177140-aa3b17a0c7b6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+    margin-top: 25px;
+    background-size: cover;
+    border: solid;
+    border-color: white;
+    border-radius:.25rem!important
+    
+}
+
+.jumbotron {
+    
+    
+}
+
+#signBox {
+    background-color: rgba(0, 0, 0, 0.603);
+    color: rgb(228, 228, 228);
+}
+
+label {
+    font-size: 50px;
+    font-family: 'Audiowide', cursive;
+    color: rgb(255, 208, 0);
+    
+   
+}
+
+.form-group {
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+.form-control {
+    background-color: rgb(36, 36, 36);
+    font-size: 20px;
+    color: rgb(255, 208, 0);
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.display-4 {
+    
+    padding-top: 50px;
+    font-size:100px;
+    padding-left: 30px;
+    
+}
+
+form {
+    padding-bottom: 40px;
+}
+
+#inputList {
+    background-color: rgba(0, 0, 0, 0.712);
+}
+
+.btn {
+    position: center;
+    text-align: center;
+    right: 40px;
+    margin-left: 460px;
+    font-size: 40px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 208, 0);
+    font-family: 'Audiowide', cursive;
+    border: solid;
+    border-color: white;
+}
+
+#border {
+    border: solid;
+    border-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+footer {
+    text-align: center;
+    position: center;
+    color: rgb(36, 36, 36);
+}
+
+#yellow {
+    color: rgb(255, 208, 0);
+}
+
