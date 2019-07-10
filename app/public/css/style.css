@@ -31,7 +31,7 @@ body {
     text-align: center;
     padding-top: 8px;
     color: rgb(235, 235, 235);
-    font-size: 22px;
+    font-size: 19px;
     
 
 }
@@ -77,9 +77,9 @@ footer {
 
 h3 {
     color: rgb(228, 228, 228);
-    font-size: 25px;
+    font-size: 26px;
     font-family: 'Share Tech Mono', monospace;
-    
+    /* padding-right: 10px;     */
 }
 
 #signIn {
