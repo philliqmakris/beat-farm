@@ -1,8 +1,8 @@
-#row1 {
+/* #row1 {
     background-color: rgb(36, 36, 36);
     color: rgb(255, 208, 0);
     padding-left: 12px;
-}
+} */
 
 body {
     font-family: 'Roboto Mono', monospace;
@@ -78,7 +78,10 @@ h3 {
     color: rgb(228, 228, 228);
     font-size: 26px;
     font-family: 'Share Tech Mono', monospace;
+<<<<<<< HEAD
     /* padding-right: 10px;     */
+=======
+>>>>>>> ba00fe1625e3fcc90b6f104d38b03b8539331e6d
 }
 
 #signIn {
@@ -103,10 +106,10 @@ h3 {
     
 }
 
-#head {
+/* #head {
     background-color: rgba(0, 0, 0, 0.815);
    
-}
+} */
 
 #begButton {
     height: 150px;

@@ -78,7 +78,10 @@ h3 {
     color: rgb(228, 228, 228);
     font-size: 26px;
     font-family: 'Share Tech Mono', monospace;
+<<<<<<< HEAD
     /* padding-right: 10px;     */
+=======
+>>>>>>> ba00fe1625e3fcc90b6f104d38b03b8539331e6d
 }
 
 #signIn {
